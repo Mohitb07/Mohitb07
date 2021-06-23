@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [DirtyBits](https://dirtybits.herokuapp.com/)
 
-- 🌱 I’m currently learning **MicroServices With React and Nodejs**
+- 🌱 I’m currently learning **Microservices with React and Nodejs**
 
 - 💬 Ask me about **React, Nodejs, Javascript**
 
