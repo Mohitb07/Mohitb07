@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh Bisht</h1>
 <h3 align="center">A passionate Full Stack developer🚀</h3>
 
-- 🔭 I’m currently working on [DirtyBits](https://dirtybits.vercel.app/) and [FaceSmash]
+- 🔭 I’m currently working on [DirtyBits](https://dirtybits.vercel.app/) and FaceSmash
 
 - 🌱 I’m currently learning **Typescript and DevOps**
 
