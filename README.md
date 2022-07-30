@@ -6,7 +6,17 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">- 🔭 I’m currently working on FaceSmash<br><br>- 🌱 I’m currently learning **Typescript and DevOps**<br><br>- 👨‍💻 All of my projects are available at https://mohitbisht-ivory.vercel.app/<br><br>- 💬 Ask me about **React, NodeJs, Javascript**<br><br>- 📫 How to reach me **bmohit980@gmail.com**</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://64.media.tumblr.com/22177b9876a3e90298c5816bc0de215b/f9d57f1c6514f421-af/s540x810/b991aade8e67474c54ba57cfb8cd9f644899bd02.gifv"  />
+</div>
 
 ###
 
@@ -30,15 +40,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=Mohitb07" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&username=Mohitb07" height="150" alt="languages graph"  />
+  <br clear="both">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitb07&" alt="mohitb07" /></p>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://64.media.tumblr.com/22177b9876a3e90298c5816bc0de215b/f9d57f1c6514f421-af/s540x810/b991aade8e67474c54ba57cfb8cd9f644899bd02.gifv"  />
 </div>
 
 ###
