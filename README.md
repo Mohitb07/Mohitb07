@@ -13,11 +13,9 @@
 ###
 
 <br clear="both">
-
 <div align="center">
-  <img height="300" src="https://64.media.tumblr.com/22177b9876a3e90298c5816bc0de215b/f9d57f1c6514f421-af/s540x810/b991aade8e67474c54ba57cfb8cd9f644899bd02.gifv"  />
+<a href="https://app.daily.dev/Mohitb07"><img src="https://api.daily.dev/devcards/3508720a693a4d4885a655b261b3f758.png?r=9fx" width="400" alt="Mohit Bisht's Dev Card"/></a>
 </div>
-
 ###
 
 <div align="center">
