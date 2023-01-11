@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohit Singh Bisht and I'm a Front-End Developer from India.</h2>
+<h2 align="left">Hi 👋 My name is Mohit Singh Bisht and I'm a Front-End Developer from India.</h2>
 
 ###
 
