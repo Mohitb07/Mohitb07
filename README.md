@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently maintaining FaceSmash for web and mobile<br><br>- 🌱 I’m currently learning Full-Stack development<br><br>- 👨‍💻 My portfolio site https://mohitsbisht.tech/<br><br>- 💬 Ask me about React, NodeJs, Javascript, React Native, Frontend, Web Development<br><br>- 📫 How to reach me bmohit980@gmail.com</p>
+<p align="left">- 🔭 I’m currently maintaining OMS<br><br>- 🌱 I’m currently learning Full-Stack development<br><br>- 👨‍💻 My portfolio site https://mohitsbisht.tech/<br><br>- 💬 Ask me about React, NodeJs, Javascript, React Native, Frontend, Web Development<br><br>- 📫 How to reach me bmohit980@gmail.com</p>
 
 ###
 
