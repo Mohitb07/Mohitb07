@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is Mohit Singh Bisht and I'm a Front-End Developer from India.</h2>
+<h2 align="left">Hi 👋 My name is Mohit Singh Bisht and I'm a Full-Stack Developer from India.</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently maintaining OMS<br><br>- 🌱 I’m currently learning Front-End Testing<br><br>- 👨‍💻 My portfolio site https://mohitsbisht.tech/<br><br>- 💬 Ask me about React, NodeJs, Javascript, React Native, Frontend, Web Development<br><br>- 📫 How to reach me bmohit980@gmail.com</p>
+<p align="left">- 🔭 I’m currently maintaining OMS<br><br>- 🌱 I’m currently learning Front End Development<br><br>- 👨‍💻 My portfolio site https://mohitsbisht.tech/<br><br>- 💬 Ask me about React, NodeJs, Javascript, React Native, Frontend, Web Development<br><br>- 📫 How to reach me bmohit980@gmail.com</p>
 
 ###
 
