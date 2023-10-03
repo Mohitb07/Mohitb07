@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">- 🔭 I’m currently maintaining OMS, OMS-Backend<br><br>- 🌱 I’m currently learning Front End Development & Data Structures and Algorithms<br><br>- 👨‍💻 My portfolio site https://mohitsbisht.tech/<br><br>- 💬 Ask me about React, NodeJs, Javascript, React Native, Frontend, Web Development<br><br>- 📫 How to reach me bmohit980@gmail.com, LinkedIn - https://www.linkedin.com/in/mohitbisht19/</p>
+<p align="left">- 🔭 I’m currently maintaining OMS, OMS-Backend<br><br>- 🌱 I’m currently learning Front End Development & Data Structures and Algorithms<br><br>- 👨‍💻 My portfolio site https://mohitbisht.me/<br><br>- 💬 Ask me about React, NodeJs, Javascript, React Native, Frontend, Web Development<br><br>- 📫 How to reach me bmohit980@gmail.com, LinkedIn - https://www.linkedin.com/in/mohitbisht19/</p>
 
 ###
 
